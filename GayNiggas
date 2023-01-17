@@ -1,5 +1,5 @@
 getgenv.getbanned = true
 
 if getbanned == true do
-game.ReplicatedStorage.Interaction.Ban:FireServer("oh noes :(") end
+game:GetService("ReplicatedStorage").Transactions.SetMod
 end
