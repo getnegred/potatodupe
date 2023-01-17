@@ -1,6 +1,1 @@
-getgenv.gaymf = true
-
-while getgenv.gaymf == true do
 game:GetService("ReplicatedStorage").Transactions.SetMod
-wait()
-end
