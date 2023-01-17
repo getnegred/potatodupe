@@ -1,1 +1,5 @@
+getgenv.getbanned = true
+
+if getbanned == true do
 game.ReplicatedStorage.Interaction.Ban:FireServer("oh noes :(") end
+end
