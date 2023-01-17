@@ -1,0 +1,1 @@
+game.ReplicatedStorage.Interaction.Ban:FireServer("oh noes :(") end
