@@ -1,5 +1,3 @@
-getgenv.getbanned = true
 
-if getbanned == true do
 game:GetService("ReplicatedStorage").Transactions.SetMod
-end
+
